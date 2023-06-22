@@ -51,4 +51,4 @@ to `matrix.systemli.org` (by default it is set to matrix.org). A good documentat
 ℹ️ Despite encryption, Matrix accumulates some metadata. See the [notes on secure use](https://wiki.systemli.org/howto/matrix-privacy (german)) in our wiki.
 
 ℹ️ In addition to the client element we recommend, there are other clients for Matrix. Thereby it can happen that they do not have all features (including security relevant ones) built in. You should have a look at the
-[Features carefully](https://matrix.org/clients-matrix/) and consider which client you use.
+[Features carefully](https://matrix.org/ecosystem/clients/) and consider which client you use.
